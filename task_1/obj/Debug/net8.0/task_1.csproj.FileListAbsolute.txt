@@ -1,0 +1,14 @@
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\bin\Debug\net8.0\task_1.exe
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\bin\Debug\net8.0\task_1.deps.json
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\bin\Debug\net8.0\task_1.runtimeconfig.json
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\bin\Debug\net8.0\task_1.dll
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\bin\Debug\net8.0\task_1.pdb
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\obj\Debug\net8.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\obj\Debug\net8.0\task_1.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\obj\Debug\net8.0\task_1.AssemblyInfo.cs
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\obj\Debug\net8.0\task_1.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\obj\Debug\net8.0\task_1.dll
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\obj\Debug\net8.0\refint\task_1.dll
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\obj\Debug\net8.0\task_1.pdb
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\obj\Debug\net8.0\task_1.genruntimeconfig.cache
+C:\Users\daniel\Desktop\Курс Разработчик\Знакомство с языками програмирования\Рекурсия\tasks\task_1\obj\Debug\net8.0\ref\task_1.dll
